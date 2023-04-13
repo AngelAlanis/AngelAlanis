@@ -1,6 +1,6 @@
 ### Hi there, I'm Angel Alanis 👋
 
-<img src="https://i.imgur.com/8lhBaka.png">
+<img src="https://i.imgur.com/91JQAqB.png">
 
 ### ⚙️ &nbsp;GitHub Analytics
 
