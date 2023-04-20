@@ -1,8 +1,12 @@
 ### Hi there, I'm Angel Alanis 👋
 
+[![Github](https://img.shields.io/github/followers/angelalanis?label=Follow&style=social)](https://github.com/angelalanis)
+
 <img src="https://i.imgur.com/91JQAqB.png">
 
 ### ⚙️ &nbsp;GitHub Analytics
+
+I'm a computer system engineer that  has worked mainly with Java for 3 years, and I'm in the process of learning Android Mobile Development using Kotlin.
 
 <p align="center">
 <a href="https://github.com/AngelAlanis">
