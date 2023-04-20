@@ -4,9 +4,9 @@
 
 <img src="https://i.imgur.com/91JQAqB.png">
 
-### ⚙️ &nbsp;GitHub Analytics
-
 I'm a computer system engineer that  has worked mainly with Java for 3 years, and I'm in the process of learning Android Mobile Development using Kotlin.
+
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AngelAlanis">
