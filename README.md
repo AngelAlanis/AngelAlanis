@@ -2,6 +2,10 @@
 
 [![Github](https://img.shields.io/github/followers/angelalanis?label=Follow&style=social)](https://github.com/angelalanis)
 
+![](https://komarev.com/ghpvc/?username=angelalanis&color=brightgreen&style=flat)
+
+
+
 <img src="https://i.imgur.com/91JQAqB.png">
 
 I'm a computer system engineer that  has worked mainly with Java for 3 years, and I'm in the process of learning Android Mobile Development using Kotlin.
