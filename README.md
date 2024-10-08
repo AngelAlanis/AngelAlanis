@@ -9,7 +9,7 @@ Hi there, I'm Ángel Alanís <img src="https://media.giphy.com/media/hvRJCLFzcas
 
 ### About me
 
-I'm a Computer System Engineer that has worked mainly with Java for 3 years, and I'm in the process of learning Android Mobile Development using Kotlin.
+I'm a Software Engineer with focus on Back End Development.
 
 ![](https://komarev.com/ghpvc/?username=angelalanis&color=blue&style=flat)
 [![Github](https://img.shields.io/github/followers/angelalanis?label=Follow&style=social)](https://github.com/angelalanis)
