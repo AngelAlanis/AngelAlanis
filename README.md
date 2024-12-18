@@ -9,7 +9,7 @@ Hi there, I'm Ángel Alanís <img src="https://media.giphy.com/media/hvRJCLFzcas
 
 ### About me
 
-I'm a Software Engineer with focus on Back End Development.
+I'm a Software Engineer with focus on Backend Development.
 
 ![](https://komarev.com/ghpvc/?username=angelalanis&color=blue&style=flat)
 [![Github](https://img.shields.io/github/followers/angelalanis?label=Follow&style=social)](https://github.com/angelalanis)
